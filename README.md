@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Valen Yamamoto. I am currently a second year Computer Science and Engineering major at University of California, Irvine, expecting to graduate in 2023.
 <!--
 **ValenYamamoto/ValenYamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
